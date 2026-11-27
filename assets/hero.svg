@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+  <rect width="1200" height="400" fill="#14161a"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#d4a017"/>
+  <text x="70" y="130" font-family="Menlo, Consolas, monospace" font-size="72" font-weight="bold" fill="#f5f0e1">diff-sprint</text>
+  <text x="70" y="185" font-family="Menlo, Consolas, monospace" font-size="27" fill="#d4a017">byte-exact makefun-diff 1.0.0 patches, 3.05&#215; faster</text>
+  <text x="70" y="245" font-family="Menlo, Consolas, monospace" font-size="21" fill="#9aa3ad">typed-array Myers search &#183; the reference's own tie-break, replayed exactly</text>
+  <text x="70" y="285" font-family="Menlo, Consolas, monospace" font-size="21" fill="#9aa3ad">zero dependencies &#183; Node 22 &#183; one file in, one patch out</text>
+  <g font-family="Menlo, Consolas, monospace" font-size="19">
+    <text x="70" y="345" fill="#6ee7a0">- deleted lines</text>
+    <text x="330" y="345" fill="#f28b82">+ inserted lines</text>
+    <text x="590" y="345" fill="#9aa3ad">= kept lines, snakes followed to the end</text>
+  </g>
+</svg>
